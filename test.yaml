@@ -1,0 +1,27 @@
+---
+name: "Bank"
+transactions:
+- id: 1
+  sender_number: "1564-1564-1654-1654"
+  recipient_number: "1564-1564-1654-1654"
+  amount: 90.0
+  currency: "EUR"
+  dateTime: "2023-01-01T01:01"
+  purpose: "sdadad"
+  status: "CONFIRMED"
+- id: 3
+  sender_number: "1564-1564-1654-1654"
+  recipient_number: "1233-1233-1233-1233"
+  amount: 90.0
+  currency: "EUR"
+  dateTime: "2023-01-01T01:01"
+  purpose: "sdadad"
+  status: "CONFIRMED"
+- id: 4
+  sender_number: "4444-5555-6666-7777"
+  recipient_number: "5555-7777-8888-9999"
+  amount: 50.0
+  currency: "CNY"
+  dateTime: "2023-02-26T18:00"
+  purpose: "dfsfsfd"
+  status: "RETURNED"

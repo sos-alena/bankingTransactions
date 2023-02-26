@@ -1,0 +1,27 @@
+---
+name: "Bank"
+transactions:
+- id: 1
+  sender_number: "1564-1564-1654-1654"
+  recipient_number: "1564-1564-1654-1654"
+  amount: 90.0
+  currency: "EUR"
+  dateTime: "2023-01-01T01:01"
+  purpose: "sdadad"
+  status: "CONFIRMED"
+- id: 2
+  sender_number: "1564-1564-1654-1654"
+  recipient_number: "1564-1564-1654-1654"
+  amount: 90.0
+  currency: "EUR"
+  dateTime: "2023-01-01T01:01"
+  purpose: "sdadad"
+  status: "CONFIRMED"
+- id: 3
+  sender_number: "1564-1564-1654-1654"
+  recipient_number: "1564-1564-1654-1654"
+  amount: 90.0
+  currency: "EUR"
+  dateTime: "2023-01-01T01:01"
+  purpose: "sdadad"
+  status: "CONFIRMED"
