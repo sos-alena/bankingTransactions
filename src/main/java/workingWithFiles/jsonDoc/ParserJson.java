@@ -1,4 +1,4 @@
-package workingWithFiles.jasonDoc;
+package workingWithFiles.jsonDoc;
 import lombok.extern.slf4j.Slf4j;
 
 import org.json.simple.JSONArray;
@@ -9,7 +9,6 @@ import workingWithFiles.bankTransactions.model.Transaction;
 
 import java.io.FileReader;
 import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -17,7 +16,7 @@ import static workingWithFiles.bankTransactions.enums.Tags.*;
 import static workingWithFiles.bankTransactions.validation.VerifyData.verifyDoc;
 
 @Slf4j
-public class ParserJason {
+public class ParserJson {
 
     public Bank parse(String path) {
         Bank bank = new Bank();

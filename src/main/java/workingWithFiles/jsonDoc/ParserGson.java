@@ -1,4 +1,4 @@
-package workingWithFiles.jasonDoc;
+package workingWithFiles.jsonDoc;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

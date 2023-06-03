@@ -3,7 +3,7 @@ package workingWithFiles.bankTransactions;
 import lombok.extern.slf4j.Slf4j;
 import workingWithFiles.bankTransactions.enums.Extension;
 import workingWithFiles.csvDoc.EditorCSV;
-import workingWithFiles.jasonDoc.EditorJason;
+import workingWithFiles.jsonDoc.EditorJson;
 import workingWithFiles.xmlDoc.EditorXML;
 import workingWithFiles.yamlDoc.EditorYaml;
 
@@ -26,7 +26,7 @@ public class EditorController {
         switch (Objects.requireNonNull(extension)) {
             case XML -> new EditorXML().editorDoc(path, pathNew);
             case CSV -> new EditorCSV().editorDoc(path, pathNew);
-            case JSON -> new EditorJason().editorDoc(path, pathNew);
+            case JSON -> new EditorJson().editorDoc(path, pathNew);
             case YAML -> new EditorYaml().editorDoc(path, pathNew);
         }
         } catch (NullPointerException e){

@@ -1,4 +1,4 @@
-package workingWithFiles.jasonDoc;
+package workingWithFiles.jsonDoc;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import workingWithFiles.bankTransactions.Editable;
@@ -11,9 +11,9 @@ import static workingWithFiles.bankTransactions.ElementController.*;
 import static workingWithFiles.bankTransactions.enums.Action.*;
 import static workingWithFiles.bankTransactions.validation.Utils.inputAction;
 import static workingWithFiles.bankTransactions.validation.Utils.inputValidateStr;
-import static workingWithFiles.jasonDoc.ParserGson.myParseGson;
+import static workingWithFiles.jsonDoc.ParserGson.myParseGson;
 
-public class EditorJason implements Editable {
+public class EditorJson implements Editable {
 
     public static void addJasonElement(Bank bank, String pathNew) {
             Bank newBank = addElement(bank);
