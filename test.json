@@ -1,0 +1,40 @@
+{
+  "name" : "Bank",
+  "transactions" : [ {
+    "id" : 2,
+    "sender_number" : "1564-1564-1654-1654",
+    "recipient_number" : "1564-1564-1654-1654",
+    "amount" : 90.0,
+    "currency" : "EUR",
+    "dateTime" : "2023-01-01T01:01",
+    "purpose" : "sdfsdfgjhgjk888fhkjhgjsf",
+    "status" : "CONFIRMED"
+  }, {
+    "id" : 5,
+    "sender_number" : "1234-1234-1234-1234",
+    "recipient_number" : "1234-1234-1234-1234",
+    "amount" : 85.15,
+    "currency" : "UAH",
+    "dateTime" : "2023-02-26T15:20",
+    "purpose" : "dfdsfsfsdf",
+    "status" : "REJECTED"
+  }, {
+    "id" : 6,
+    "sender_number" : "1561-1561-1561-1561",
+    "recipient_number" : "1561-1561-1561-1561",
+    "amount" : 50.0,
+    "currency" : "UAH",
+    "dateTime" : "2023-02-26T01:01",
+    "purpose" : "dsfsfs",
+    "status" : "RETURNED"
+  }, {
+    "id" : 7,
+    "sender_number" : "1231-1231-1231-1231",
+    "recipient_number" : "1231-1231-1231-1231",
+    "amount" : 20.0,
+    "currency" : "GBP",
+    "dateTime" : "2023-02-26T15:04",
+    "purpose" : "dfsfsf",
+    "status" : "PENDING"
+  } ]
+}

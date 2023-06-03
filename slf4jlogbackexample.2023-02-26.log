@@ -1,0 +1,103 @@
+26.02.2023 14:48:01.977 [main] INFO   w.b.validation.Utils - Incorrect value: Unable to obtain LocalDateTime from TemporalAccessor: 2023-02-26 of type java.time.LocalDate
+26.02.2023 14:48:21.464 [main] INFO   w.b.validation.Utils - Incorrect value: Unable to obtain LocalDateTime from TemporalAccessor: 2023-02-26 of type java.time.LocalDate
+26.02.2023 14:48:56.571 [main] INFO   w.b.validation.Utils - Incorrect value: Unable to obtain LocalDateTime from TemporalAccessor: 2023-02-26 of type java.time.LocalDate
+26.02.2023 14:49:08.951 [main] INFO   w.b.validation.Utils - Incorrect value: Unable to obtain LocalDateTime from TemporalAccessor: 2023-02-26 of type java.time.LocalDate
+26.02.2023 14:51:01.390 [main] INFO   w.x.WriterNewXML - Get the Nodelist.
+26.02.2023 14:51:34.870 [main] INFO   w.b.validation.Utils - Incorrect value: Unable to obtain LocalDateTime from TemporalAccessor: 2023-02-26 of type java.time.LocalDate
+26.02.2023 14:53:45.748 [main] INFO   w.b.validation.Utils - Incorrect value: Unable to obtain LocalDateTime from TemporalAccessor: 2023-02-26 of type java.time.LocalDate
+26.02.2023 15:00:54.569 [main] INFO   w.b.validation.Utils - Empty.
+26.02.2023 15:01:43.276 [main] INFO   w.b.v.RegexValidation - Character is invalid. Try again
+26.02.2023 15:03:12.476 [main] INFO   w.b.validation.Utils - Incorrect value: 0
+26.02.2023 15:03:12.492 [main] INFO   w.b.validation.Utils - Incorrect value: null
+26.02.2023 15:03:29.619 [main] INFO   w.b.validation.Utils - Incorrect value: 1.234123412341234E15
+26.02.2023 15:03:29.619 [main] INFO   w.b.validation.Utils - Incorrect value: null
+26.02.2023 15:03:54.639 [main] INFO   w.b.validation.Utils - Incorrect value: 2023
+26.02.2023 15:10:58.662 [main] INFO   w.x.m.DomParser - Open parsing error
+26.02.2023 15:11:09.368 [main] INFO   w.x.m.DomParser - Open parsing error
+26.02.2023 15:18:17.456 [main] INFO   w.x.m.SaxParserHandler - Start document
+26.02.2023 15:18:17.518 [main] INFO   w.x.m.SaxParserHandler - End document
+26.02.2023 15:18:31.905 [main] INFO   w.x.EditorDocument - Cannot invoke because "nodeTwo" is null
+26.02.2023 15:19:28.999 [main] INFO   w.x.WriterNewXML - Get the Nodelist.
+26.02.2023 15:19:54.762 [main] INFO   w.b.validation.Utils - Incorrect value: 1999
+26.02.2023 15:19:55.606 [main] INFO   w.b.validation.Utils - Incorrect value: 2
+26.02.2023 15:20:04.294 [main] INFO   w.b.validation.Utils - Incorrect value: For input string: ""
+26.02.2023 15:20:04.669 [main] INFO   w.b.validation.Utils - Incorrect value: For input string: ""
+26.02.2023 15:20:28.710 [main] INFO   w.x.WriterNewXML - Transaction successfully written to file
+26.02.2023 15:20:28.710 [main] INFO   w.x.WriterNewXML - Transaction added successfully!
+26.02.2023 15:20:41.808 [main] INFO   w.x.m.SaxParserHandler - Start document
+26.02.2023 15:20:41.808 [main] INFO   w.x.m.SaxParserHandler - End document
+26.02.2023 15:21:02.209 [main] INFO   w.b.v.VerifyData - Line is invalid. Index = 1
+26.02.2023 16:10:48.649 [main] INFO   w.x.EditorDocument - Editing completed successfully!
+26.02.2023 16:10:58.978 [main] INFO   w.x.WriterNewXML - Get the Nodelist.
+26.02.2023 16:11:31.186 [main] INFO   w.x.WriterNewXML - Transaction successfully written to file
+26.02.2023 16:11:31.186 [main] INFO   w.x.WriterNewXML - Transaction added successfully!
+26.02.2023 17:14:06.454 [main] INFO   w.b.validation.Utils - Empty.
+26.02.2023 17:19:37.614 [main] INFO   w.b.v.RegexValidation - Number is invalid. Check the number.
+Try again
+26.02.2023 17:19:38.231 [main] INFO   w.b.v.RegexValidation - Number is invalid. Check the number.
+Try again
+26.02.2023 17:19:38.802 [main] INFO   w.b.v.RegexValidation - Number is invalid. Check the number.
+Try again
+26.02.2023 17:19:39.488 [main] INFO   w.b.v.RegexValidation - Number is invalid. Check the number.
+Try again
+26.02.2023 17:19:41.263 [main] INFO   w.b.v.RegexValidation - Number is invalid. Check the number.
+Try again
+26.02.2023 17:19:45.174 [main] INFO   w.b.v.RegexValidation - Number is invalid. Check the number.
+Try again
+26.02.2023 17:19:50.452 [main] INFO   w.xmlDoc.EditorXML - Cannot invoke because "nodeTwo" is null
+26.02.2023 17:20:03.860 [main] INFO   w.b.v.RegexValidation - Number is invalid. Check the number.
+Try again
+26.02.2023 17:21:50.923 [main] INFO   w.b.validation.Utils - Empty.
+26.02.2023 17:21:50.923 [main] INFO   w.b.validation.Utils - Empty.
+26.02.2023 17:22:46.198 [main] INFO   w.b.v.RegexValidation - Character is invalid. Try again
+26.02.2023 17:37:51.269 [main] INFO   w.xmlDoc.EditorXML - Cannot invoke because "nodeTwo" is null
+26.02.2023 17:42:54.001 [main] INFO   w.b.v.VerifyData - Line is invalid. Index = 3
+26.02.2023 17:43:34.965 [main] INFO   w.b.ElementController - index - 4 not found!
+26.02.2023 17:43:59.823 [main] INFO   w.b.v.RegexValidation - Number is invalid. Check the number of digits in the number .
+Try again
+26.02.2023 17:44:38.968 [main] INFO   w.b.v.VerifyData - Line is invalid. Index = 3
+26.02.2023 17:45:10.729 [main] INFO   w.b.v.VerifyData - Line is invalid. Index = 3
+26.02.2023 17:54:28.263 [main] INFO   w.b.v.RegexValidation - Character is invalid. Try again
+26.02.2023 18:00:32.221 [main] INFO   w.b.v.RegexValidation - Number is invalid. Check the number of digits in the number .
+Try again
+26.02.2023 18:12:28.993 [main] INFO   w.b.EditorController - Error null
+26.02.2023 18:14:12.469 [main] INFO   w.b.EditorController - Error! File not found or path invalid test.xmlnull
+26.02.2023 18:20:08.490 [main] INFO   w.x.m.SaxParserHandler - Start document
+26.02.2023 18:20:08.744 [main] INFO   w.x.m.SaxParserHandler - End document
+26.02.2023 18:34:13.718 [main] INFO   w.b.EditorController - Error! File not found or path invalid еуые,чьд
+26.02.2023 18:35:34.268 [main] INFO   w.x.WriterNewXML - Get the Nodelist.
+26.02.2023 18:36:08.968 [main] INFO   w.b.validation.Utils - Incorrect value type.
+26.02.2023 18:36:12.297 [main] INFO   w.x.WriterNewXML - Transaction successfully written to file
+26.02.2023 18:36:12.297 [main] INFO   w.x.WriterNewXML - Transaction added successfully!
+26.02.2023 18:36:38.711 [main] INFO   w.xmlDoc.EditorXML - Cannot invoke because "nodeTwo" is null
+26.02.2023 18:36:46.216 [main] INFO   w.xmlDoc.EditorXML - Cannot invoke because "nodeTwo" is null
+26.02.2023 18:36:59.449 [main] INFO   w.b.v.RegexValidation - Character is invalid. Try again
+26.02.2023 18:37:08.743 [main] INFO   w.xmlDoc.EditorXML - Editing completed successfully!
+26.02.2023 18:39:09.503 [main] INFO   w.x.m.SaxParserHandler - Start document
+26.02.2023 18:39:09.603 [main] INFO   w.x.m.SaxParserHandler - End document
+26.02.2023 18:42:00.072 [main] INFO   w.xmlDoc.EditorXML - Cannot invoke because "nodeTwo" is null
+26.02.2023 18:49:33.110 [main] INFO   w.x.WriterNewXML - Get the Nodelist.
+26.02.2023 18:50:21.748 [main] INFO   w.x.WriterNewXML - Transaction successfully written to file
+26.02.2023 18:50:21.748 [main] INFO   w.x.WriterNewXML - Transaction added successfully!
+26.02.2023 18:51:03.563 [main] INFO   w.xmlDoc.EditorXML - Cannot invoke because "nodeTwo" is null
+26.02.2023 18:51:46.776 [main] INFO   w.xmlDoc.EditorXML - Cannot invoke because "nodeTwo" is null
+26.02.2023 18:51:51.922 [main] INFO   w.xmlDoc.EditorXML - Cannot invoke because "nodeTwo" is null
+26.02.2023 18:51:54.514 [main] INFO   w.xmlDoc.EditorXML - Cannot invoke because "nodeTwo" is null
+26.02.2023 18:51:58.225 [main] INFO   w.xmlDoc.EditorXML - Cannot invoke because "nodeTwo" is null
+26.02.2023 19:02:02.213 [main] INFO   w.b.v.RegexValidation - Number is invalid. Check the number of digits in the number .
+Try again
+26.02.2023 19:22:12.773 [main] INFO   w.b.v.RegexValidation - Character is invalid. Try again
+26.02.2023 19:24:03.892 [main] INFO   w.b.v.RegexValidation - Number is invalid. Check the number of digits in the number .
+Try again
+26.02.2023 19:25:56.674 [main] INFO   w.x.m.SaxMyParser - Parsing error java.io.FileNotFoundException: F:\MavenProject\bankingTransactions\test2.xml (Не удается найти указанный файл)
+26.02.2023 19:27:14.403 [main] INFO   w.xmlDoc.EditorXML - Cannot invoke because "nodeTwo" is null
+26.02.2023 19:28:09.191 [main] INFO   w.xmlDoc.EditorXML - Editing completed successfully!
+26.02.2023 19:28:18.999 [main] INFO   w.x.m.SaxMyParser - Parsing error java.io.FileNotFoundException: F:\MavenProject\bankingTransactions\test2.xml (Не удается найти указанный файл)
+26.02.2023 19:33:02.345 [main] INFO   w.x.WriterNewXML - Get the Nodelist.
+26.02.2023 19:33:19.220 [main] INFO   w.b.v.RegexValidation - Number is invalid. Check the number.
+Try again
+26.02.2023 19:33:22.265 [main] INFO   w.b.v.RegexValidation - Number is invalid. Check the number.
+Try again
+26.02.2023 19:33:52.388 [main] INFO   w.b.validation.Utils - Incorrect value type.
+26.02.2023 19:33:55.712 [main] INFO   w.x.WriterNewXML - Transaction successfully written to file
+26.02.2023 19:33:55.712 [main] INFO   w.x.WriterNewXML - Transaction added successfully!
